@@ -1,2 +1,5 @@
-# js-questions
-Вопросы по языку JavaScript
+# Вопросы по Front-End разработке
+
+1. Контекст вызова функции. Функции bind, apply, call
+2. Промисы. Статические методы класса Promise
+3. Event Loop
